@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nitishwaa
+- 👋 Hi, I’m @nitishwa
 - 👀 I’m interested in coding, ethical hacking, data analysis(mysql), photoshop and enterpreneurship
 - 🌱 I’m currently learning CSE
 - 💞️ I’m looking to collaborate on any creative ideas that involves my above mentioned skills
