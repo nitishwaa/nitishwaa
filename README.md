@@ -21,4 +21,5 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Implementing Linear Regression — Using Admission Prediction data set](https://medium.com/@nitishchowan/implementing-linear-regression-using-admission-prediction-data-set-df5572940fee?source=rss-3dda734bda6------2)
 <!-- BLOG-POST-LIST:END -->
